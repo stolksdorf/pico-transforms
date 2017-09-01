@@ -1,0 +1,27 @@
+{
+  "name": "pico-transforms",
+  "version": "1.0.0",
+  "description": "A collection of small, but useful Browserify transforms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stolksdorf/pico-transforms.git"
+  },
+  "keywords": [
+    "browserify",
+    "transforms",
+    "svg",
+    "yaml",
+    "svgify",
+    "yamlify"
+  ],
+  "author": "stolksdorf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stolksdorf/pico-transforms/issues"
+  },
+  "homepage": "https://github.com/stolksdorf/pico-transforms#readme"
+}
